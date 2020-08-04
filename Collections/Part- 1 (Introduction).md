@@ -12,7 +12,7 @@ The Main advantage array is we can represent multiple values by using single var
    s[0] = new Student();
    s[1] = new Customer();
    CE: incompatible types Found : Customer required: Student
-     ```
+   ```
    - But we can solve this problem by Using Object type arrays
    ```sh
    Object [] a = new Object[10000];
